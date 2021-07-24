@@ -221,7 +221,7 @@ jano.on("message", message => {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(867923414139146301)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
@@ -238,7 +238,7 @@ jano2.on("message", message => {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(867923414139146301)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
@@ -254,7 +254,7 @@ jano3.on("message", message => {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(867923414139146301)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
@@ -270,7 +270,7 @@ jano4.on("message", message => {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(867923414139146301)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
